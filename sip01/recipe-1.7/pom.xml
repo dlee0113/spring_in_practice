@@ -21,7 +21,7 @@ Code: https://github.com/springinpractice
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.springinpractice</groupId>
-	<artifactId>sip01</artifactId>
+	<artifactId>recipe-1.7</artifactId>
 	<version>1.0-RELEASE</version>
 	<packaging>jar</packaging>
 
