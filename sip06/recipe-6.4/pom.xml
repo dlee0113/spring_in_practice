@@ -36,8 +36,8 @@ Code: https://github.com/springinpractice
 	<url>http://springinpractice.com/</url>
 	
 	<properties>
-		<chapter.number>06</chapter.number>
-		<chapter.conf.dir>${sip.conf.dir}/sip${chapter.number}</chapter.conf.dir>
+		<sip.conf.dir>C:\GitHub\spring_in_practice\sip06\recipe-6.4\sample_conf</sip.conf.dir>
+		<chapter.conf.dir>${sip.conf.dir}</chapter.conf.dir>
 	</properties>
 	
 	<dependencies>
