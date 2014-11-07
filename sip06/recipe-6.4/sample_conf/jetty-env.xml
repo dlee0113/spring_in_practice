@@ -9,8 +9,8 @@
 			<New class="org.apache.commons.dbcp.BasicDataSource">
 				<Set name="driverClassName">com.mysql.jdbc.Driver</Set>
 				<Set name="url">jdbc:mysql://localhost:3306/sip06?autoReconnect=true</Set>
-				<Set name="username">root</Set>
-				<Set name="password">password</Set>
+				<Set name="username">sip</Set>
+				<Set name="password">sip</Set>
 			</New>
 		</Arg>
 	</New>
